@@ -13,4 +13,9 @@ div {
 div:hover {
   background-color: lightgrey; }
 
+#div p {
+  color: red; }
+#div ul {
+  color: blue; }
+
 /*# sourceMappingURL=style.css.map */
