@@ -2,3 +2,8 @@ h1, p {
     text-align: center;
     color: red;
 }
+
+#htext:hover {
+    color: blue;
+    font-size: large
+}
