@@ -21,3 +21,13 @@ div {
 div:hover {
     background-color: $bg_c_hov;
 }
+
+#div {
+    p {
+       color: $color; 
+    }
+    
+    ul {
+        color: blue;
+    }
+}
