@@ -1,9 +1,16 @@
-h1, p {
-    text-align: center;
-    color: red;
-}
+h1 {
+  text-align: center;
+  color: red; }
 
-#htext:hover {
-    color: blue;
-    font-size: large
-}
+p {
+  text-align: center;
+  color: red;
+  font-style: italic; }
+
+div {
+  background-color: grey; }
+
+div:hover {
+  background-color: lightgrey; }
+
+/*# sourceMappingURL=style.css.map */
