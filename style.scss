@@ -1,22 +1,19 @@
 $color: red;
 $bg_color: grey;
-$t_align: center;
 $bg_c_hov: lightgrey;
 
+body {
+    font-size: large;
+}
+
 h1 {
-    text-align: $t_align;
     color: $color;
 }
 
 p {
-    text-align: $t_align;
     color: $color;
     font-style: italic;
 }
-
-div {
-    background-color: $bg_color;
-}  
  
 div:hover {
     background-color: $bg_c_hov;
